@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.dash{
+	color:lightslategrey;
+}
+
+.item-form{
+	background-color:#E5E5E5;
+	box-shadow: #ccc 5px 5px 5px;
+}
+
